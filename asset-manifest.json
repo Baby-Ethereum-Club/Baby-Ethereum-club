@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/baby-ethereum-club/static/css/main.baeea4fc.chunk.css",
-    "main.js": "/baby-ethereum-club/static/js/main.78908a5a.chunk.js",
-    "main.js.map": "/baby-ethereum-club/static/js/main.78908a5a.chunk.js.map",
-    "runtime-main.js": "/baby-ethereum-club/static/js/runtime-main.9e82c1c9.js",
-    "runtime-main.js.map": "/baby-ethereum-club/static/js/runtime-main.9e82c1c9.js.map",
-    "static/js/2.948a9838.chunk.js": "/baby-ethereum-club/static/js/2.948a9838.chunk.js",
-    "static/js/2.948a9838.chunk.js.map": "/baby-ethereum-club/static/js/2.948a9838.chunk.js.map",
-    "static/js/3.f4f0391b.chunk.js": "/baby-ethereum-club/static/js/3.f4f0391b.chunk.js",
-    "static/js/3.f4f0391b.chunk.js.map": "/baby-ethereum-club/static/js/3.f4f0391b.chunk.js.map",
-    "index.html": "/baby-ethereum-club/index.html",
-    "static/css/main.baeea4fc.chunk.css.map": "/baby-ethereum-club/static/css/main.baeea4fc.chunk.css.map",
-    "static/js/2.948a9838.chunk.js.LICENSE.txt": "/baby-ethereum-club/static/js/2.948a9838.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/baby-ethereum-club/static/media/font.617a0a92.woff"
+    "main.css": "/static/css/main.baeea4fc.chunk.css",
+    "main.js": "/static/js/main.78908a5a.chunk.js",
+    "main.js.map": "/static/js/main.78908a5a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e82c1c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e82c1c9.js.map",
+    "static/js/2.948a9838.chunk.js": "/static/js/2.948a9838.chunk.js",
+    "static/js/2.948a9838.chunk.js.map": "/static/js/2.948a9838.chunk.js.map",
+    "static/js/3.f4f0391b.chunk.js": "/static/js/3.f4f0391b.chunk.js",
+    "static/js/3.f4f0391b.chunk.js.map": "/static/js/3.f4f0391b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.baeea4fc.chunk.css.map": "/static/css/main.baeea4fc.chunk.css.map",
+    "static/js/2.948a9838.chunk.js.LICENSE.txt": "/static/js/2.948a9838.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.9e82c1c9.js",
